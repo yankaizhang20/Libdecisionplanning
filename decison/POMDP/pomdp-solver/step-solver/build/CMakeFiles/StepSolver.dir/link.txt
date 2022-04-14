@@ -1,0 +1,2 @@
+/usr/bin/ar qc libStepSolver.a  CMakeFiles/StepSolver.dir/StepSolver.o CMakeFiles/StepSolver.dir/StepSolvertest.o
+/usr/bin/ranlib libStepSolver.a

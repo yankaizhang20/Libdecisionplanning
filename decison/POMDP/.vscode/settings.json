@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "initializer_list": "cpp",
+        "random": "c",
+        "*.tcc": "c",
+        "orderingmethods": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
