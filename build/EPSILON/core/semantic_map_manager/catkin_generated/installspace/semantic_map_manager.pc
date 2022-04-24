@@ -1,8 +1,0 @@
-prefix=/home/zyk/0career/3project/POMDP/EPSILON-test/install
-
-Name: semantic_map_manager
-Description: Description of semantic_map_manager
-Version: 0.0.0
-Cflags: -I${prefix}/include -I/home/zyk/0career/3project/POMDP/EPSILON-test/src/EPSILON/core/vehicle_msgs/inc -I/home/zyk/0career/3project/POMDP/EPSILON-test/src/EPSILON/core/common/inc -I/home/zyk/0career/3project/POMDP/EPSILON-test/src/EPSILON/core/common/thirdparty -I/usr/local/include -I/usr/include/eigen3 -I/home/zyk/0career/3project/POMDP/EPSILON-test/src/EPSILON/core/common/thirdparty/ooqp/include/ooqp -I/opt/ros/noetic/include -I/usr/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/zyk/0career/3project/POMDP/EPSILON-test/src/EPSILON/core/vehicle_model/inc -I/home/zyk/0career/3project/POMDP/EPSILON-test/src/EPSILON/core/motion_predictor/inc -I/home/zyk/0career/3project/POMDP/EPSILON-test/src/EPSILON/core/forward_simulator/inc
-Libs: -L${prefix}/lib -lhkust_pl_smm -lhkust_smm_ros
-Requires: 

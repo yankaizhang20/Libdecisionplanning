@@ -1,8 +1,0 @@
-prefix=/home/zyk/0career/3project/POMDP/EPSILON-test/devel
-
-Name: route_planner
-Description: Description of route_planner
-Version: 0.0.0
-Cflags: -I/home/zyk/0career/3project/POMDP/EPSILON-test/src/EPSILON/core/route_planner/inc
-Libs: -L${prefix}/lib -lhkust_pl_rp
-Requires: 
