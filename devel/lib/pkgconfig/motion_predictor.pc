@@ -1,8 +1,0 @@
-prefix=/home/zyk/0career/3project/Libdecisionplanning/devel
-
-Name: motion_predictor
-Description: Description of motion_predictor
-Version: 0.0.0
-Cflags: -I/home/zyk/0career/3project/Libdecisionplanning/src/core/motion_predictor/inc -I/home/zyk/0career/3project/Libdecisionplanning/src/core/forward_simulator/inc -I/home/zyk/0career/3project/Libdecisionplanning/src/core/vehicle_model/inc
-Libs: -L${prefix}/lib -lhkust_pl_vehicle_model
-Requires: 

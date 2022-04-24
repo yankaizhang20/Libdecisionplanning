@@ -1,8 +1,0 @@
-prefix=/home/zyk/0career/3project/Libdecisionplanning/install
-
-Name: common
-Description: Description of common
-Version: 0.0.0
-Cflags: -I${prefix}/include -I/usr/local/include -I/usr/include/eigen3
-Libs: -L${prefix}/lib -lhkust_pl_common
-Requires: roscpp visualization_msgs sensor_msgs tf

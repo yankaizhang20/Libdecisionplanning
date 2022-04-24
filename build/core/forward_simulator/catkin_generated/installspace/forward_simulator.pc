@@ -1,8 +1,0 @@
-prefix=/home/zyk/0career/3project/Libdecisionplanning/install
-
-Name: forward_simulator
-Description: Description of forward_simulator
-Version: 0.0.0
-Cflags: -I${prefix}/include -I/home/zyk/0career/3project/Libdecisionplanning/src/core/vehicle_model/inc
-Libs: -L${prefix}/lib -lhkust_pl_vehicle_model
-Requires: 

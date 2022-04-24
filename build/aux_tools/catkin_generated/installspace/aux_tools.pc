@@ -1,8 +1,0 @@
-prefix=/home/zyk/0career/3project/Libdecisionplanning/install
-
-Name: aux_tools
-Description: Description of aux_tools
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

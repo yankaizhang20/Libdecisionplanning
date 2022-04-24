@@ -1,8 +1,0 @@
-prefix=/home/zyk/0career/3project/Libdecisionplanning/devel
-
-Name: common
-Description: Description of common
-Version: 0.0.0
-Cflags: -I/home/zyk/0career/3project/Libdecisionplanning/src/core/common/inc -I/home/zyk/0career/3project/Libdecisionplanning/src/core/common/thirdparty -I/usr/local/include -I/usr/include/eigen3 -I/home/zyk/0career/3project/Libdecisionplanning/src/core/common/thirdparty/ooqp/include/ooqp
-Libs: -L${prefix}/lib -lhkust_pl_common
-Requires: roscpp visualization_msgs sensor_msgs tf
