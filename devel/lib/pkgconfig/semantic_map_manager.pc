@@ -1,0 +1,8 @@
+prefix=/home/zyk/0career/3project/Libdecisionplanning/devel
+
+Name: semantic_map_manager
+Description: Description of semantic_map_manager
+Version: 0.0.0
+Cflags: -I/home/zyk/0career/3project/Libdecisionplanning/src/core/semantic_map_manager/inc -I/home/zyk/0career/3project/Libdecisionplanning/devel/include -I/home/zyk/0career/3project/Libdecisionplanning/src/core/vehicle_msgs/inc -I/home/zyk/0career/3project/Libdecisionplanning/src/core/common/inc -I/home/zyk/0career/3project/Libdecisionplanning/src/core/common/thirdparty -I/usr/local/include -I/usr/include/eigen3 -I/home/zyk/0career/3project/Libdecisionplanning/src/core/common/thirdparty/ooqp/include/ooqp -I/opt/ros/noetic/include -I/usr/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/zyk/0career/3project/Libdecisionplanning/src/core/vehicle_model/inc -I/home/zyk/0career/3project/Libdecisionplanning/src/core/semantic_map_manager/thirdparty -I/home/zyk/0career/3project/Libdecisionplanning/src/core/motion_predictor/inc -I/home/zyk/0career/3project/Libdecisionplanning/src/core/forward_simulator/inc
+Libs: -L${prefix}/lib -lhkust_pl_smm -lhkust_smm_ros
+Requires: 

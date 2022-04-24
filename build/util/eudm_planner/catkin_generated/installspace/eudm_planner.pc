@@ -1,0 +1,8 @@
+prefix=/home/zyk/0career/3project/Libdecisionplanning/install
+
+Name: eudm_planner
+Description: Description of eudm_planner
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lhkust_pl_eudm -lhkust_eudm_ros
+Requires: 

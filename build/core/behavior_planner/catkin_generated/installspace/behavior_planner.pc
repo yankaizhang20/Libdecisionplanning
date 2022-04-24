@@ -1,0 +1,8 @@
+prefix=/home/zyk/0career/3project/Libdecisionplanning/install
+
+Name: behavior_planner
+Description: Description of behavior_planner
+Version: 0.0.0
+Cflags: -I${prefix}/include -I/home/zyk/0career/3project/Libdecisionplanning/src/core/route_planner/inc
+Libs: -L${prefix}/lib -lbehavior_planner_lib -lbehavior_planner_ros
+Requires: 
