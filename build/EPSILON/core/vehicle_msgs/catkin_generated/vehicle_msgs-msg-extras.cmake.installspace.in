@@ -1,0 +1,2 @@
+set(vehicle_msgs_MESSAGE_FILES "msg/State.msg;msg/ControlSignal.msg;msg/Lane.msg;msg/LaneNet.msg;msg/VehicleParam.msg;msg/Vehicle.msg;msg/VehicleSet.msg;msg/OccupancyGridFloat.msg;msg/OccupancyGridUInt8.msg;msg/Circle.msg;msg/CircleObstacle.msg;msg/PolygonObstacle.msg;msg/ObstacleSet.msg;msg/FreeState.msg;msg/ArenaInfo.msg;msg/ArenaInfoDynamic.msg;msg/ArenaInfoStatic.msg")
+set(vehicle_msgs_SERVICE_FILES "")

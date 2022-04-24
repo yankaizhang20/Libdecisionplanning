@@ -1,0 +1,8 @@
+prefix=/home/zyk/0career/3project/POMDP/EPSILON-test/install
+
+Name: ssc_planner
+Description: Description of ssc_planner
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lhkust_pl_ssc -lssc_server_ros
+Requires: 

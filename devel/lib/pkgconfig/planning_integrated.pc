@@ -1,0 +1,8 @@
+prefix=/home/zyk/0career/3project/POMDP/EPSILON-test/devel
+
+Name: planning_integrated
+Description: Description of planning_integrated
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

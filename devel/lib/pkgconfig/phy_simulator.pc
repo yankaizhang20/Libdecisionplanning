@@ -1,0 +1,8 @@
+prefix=/home/zyk/0career/3project/POMDP/EPSILON-test/devel
+
+Name: phy_simulator
+Description: Description of phy_simulator
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+EPSILON/app/planning_integrated:EPSILON/aux_tools:EPSILON/core/behavior_planner:EPSILON/core/common:EPSILON/core/forward_simulator:EPSILON/core/motion_predictor:EPSILON/core/phy_simulator:EPSILON/core/playgrounds:EPSILON/core/route_planner:EPSILON/core/semantic_map_manager:EPSILON/core/vehicle_model:EPSILON/core/vehicle_msgs:EPSILON/util/ai_agent_planner:EPSILON/util/eudm_planner:EPSILON/util/ssc_planner
+-DCATKIN_DEVEL_PREFIX=/home/zyk/0career/3project/POMDP/EPSILON-test/devel -DCMAKE_INSTALL_PREFIX=/home/zyk/0career/3project/POMDP/EPSILON-test/install -G Unix Makefiles

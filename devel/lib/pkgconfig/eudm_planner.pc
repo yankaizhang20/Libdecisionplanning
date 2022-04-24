@@ -1,0 +1,8 @@
+prefix=/home/zyk/0career/3project/POMDP/EPSILON-test/devel
+
+Name: eudm_planner
+Description: Description of eudm_planner
+Version: 0.0.0
+Cflags: -I/home/zyk/0career/3project/POMDP/EPSILON-test/src/EPSILON/util/eudm_planner/inc -I/home/zyk/0career/3project/POMDP/EPSILON-test/build/EPSILON/util/eudm_planner
+Libs: -L${prefix}/lib -lhkust_pl_eudm -lhkust_eudm_ros
+Requires: 
